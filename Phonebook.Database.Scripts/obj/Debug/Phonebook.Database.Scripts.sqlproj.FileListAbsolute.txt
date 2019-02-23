@@ -1,0 +1,5 @@
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.Database.Scripts\bin\Debug\Phonebook.Database.Scripts.dacpac
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.Database.Scripts\obj\Debug\Phonebook.Database.Scripts.dll
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.Database.Scripts\obj\Debug\Phonebook.Database.Scripts.pdb
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.Database.Scripts\bin\Debug\Phonebook.Database.Scripts.dll
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.Database.Scripts\bin\Debug\Phonebook.Database.Scripts.pdb

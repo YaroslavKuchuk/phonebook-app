@@ -1,0 +1,14 @@
+﻿@model PhoneBook.Models.Groups
+@{
+    ViewBag.Title = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Update</h2>
+
+
+@using (Html.BeginForm("Update", "Group", FormMethod.Post))
+{
+    @Html.Partial("Partials/_groups")
+   
+}

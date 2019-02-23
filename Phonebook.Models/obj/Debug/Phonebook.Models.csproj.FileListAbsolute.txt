@@ -1,0 +1,12 @@
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.Models\bin\Debug\Phonebook.Models.dll.config
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.Models\bin\Debug\Phonebook.Models.dll
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.Models\bin\Debug\Phonebook.Models.pdb
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.Models\bin\Debug\EntityFramework.dll
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.Models\bin\Debug\EntityFramework.xml
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.Models\obj\Debug\Phonebook.Models.csprojAssemblyReference.cache
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.Models\obj\Debug\Phonebook.Models.csproj.CoreCompileInputs.cache
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.Models\obj\Debug\Phonebook.Models.csproj.CopyComplete
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.Models\obj\Debug\Phonebook.Models.dll
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.Models\obj\Debug\Phonebook.Models.pdb

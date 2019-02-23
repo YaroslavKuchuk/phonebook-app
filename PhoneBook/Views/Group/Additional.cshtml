@@ -1,0 +1,16 @@
+﻿@model PhoneBook.Models.Groups
+@{
+    ViewBag.Title = "Add";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Add</h2>
+
+@using (Html.BeginForm("Additional", "Group", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    HtmlHelper.UnobtrusiveJavaScriptEnabled = false;
+    @Html.Partial("Partials/_groups")
+
+    //<input type="submit" name="Добавить" />
+}

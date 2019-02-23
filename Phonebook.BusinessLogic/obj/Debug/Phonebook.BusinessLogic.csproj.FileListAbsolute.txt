@@ -1,0 +1,15 @@
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.BusinessLogic\bin\Debug\Phonebook.BusinessLogic.dll
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.BusinessLogic\bin\Debug\Phonebook.BusinessLogic.pdb
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.BusinessLogic\bin\Debug\Phonebook.Models.dll
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.BusinessLogic\bin\Debug\EntityFramework.dll
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.BusinessLogic\bin\Debug\Phonebook.Models.pdb
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.BusinessLogic\bin\Debug\Phonebook.Models.dll.config
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.BusinessLogic\bin\Debug\EntityFramework.xml
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.BusinessLogic\obj\Debug\Phonebook.BusinessLogic.csprojAssemblyReference.cache
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.BusinessLogic\obj\Debug\Phonebook.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.BusinessLogic\obj\Debug\Phonebook.BusinessLogic.csproj.CopyComplete
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.BusinessLogic\obj\Debug\Phonebook.BusinessLogic.dll
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.BusinessLogic\obj\Debug\Phonebook.BusinessLogic.pdb
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.BusinessLogic\bin\Debug\Phonebook.AdonetLayer.dll
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.BusinessLogic\bin\Debug\Phonebook.AdonetLayer.pdb
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.BusinessLogic\bin\Debug\Phonebook.AdonetLayer.dll.config

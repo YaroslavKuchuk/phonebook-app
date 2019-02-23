@@ -1,0 +1,13 @@
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.AdonetLayer\bin\Debug\Phonebook.AdonetLayer.dll.config
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.AdonetLayer\bin\Debug\Phonebook.AdonetLayer.dll
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.AdonetLayer\bin\Debug\Phonebook.AdonetLayer.pdb
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.AdonetLayer\bin\Debug\Phonebook.Models.dll
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.AdonetLayer\bin\Debug\EntityFramework.dll
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.AdonetLayer\bin\Debug\Phonebook.Models.pdb
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.AdonetLayer\bin\Debug\Phonebook.Models.dll.config
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.AdonetLayer\bin\Debug\EntityFramework.xml
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.AdonetLayer\obj\Debug\Phonebook.AdonetLayer.csprojAssemblyReference.cache
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.AdonetLayer\obj\Debug\Phonebook.AdonetLayer.csproj.CoreCompileInputs.cache
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.AdonetLayer\obj\Debug\Phonebook.AdonetLayer.csproj.CopyComplete
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.AdonetLayer\obj\Debug\Phonebook.AdonetLayer.dll
+D:\Projects\PhoneBook-master\PhoneBook-master\Phonebook.AdonetLayer\obj\Debug\Phonebook.AdonetLayer.pdb

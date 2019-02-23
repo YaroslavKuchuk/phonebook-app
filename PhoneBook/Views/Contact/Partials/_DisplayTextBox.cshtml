@@ -1,0 +1,15 @@
+﻿@model PhoneBook.Models.Contact
+
+
+@Html.LabelFor(x => x.FirstName, "Имя")
+<br />
+@Html.EditorFor(x => x.FirstName)
+<br /><br />
+@Html.LabelFor(x => x.LastName, "Фамилия")
+<br />
+@Html.EditorFor(x => x.LastName)
+<br /><br />
+@Html.LabelFor(x => x.Position, "Должность")
+<br />
+@Html.EditorFor(x => x.Position)
+<br /><br />

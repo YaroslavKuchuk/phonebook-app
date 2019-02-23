@@ -1,0 +1,41 @@
+﻿@model IEnumerable<PhoneBook.Models.Contact>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Телефонная книга</title>
+</head>
+<body>
+    <div>
+        <h3>Контакты</h3>
+        <table>
+            <tr>
+                <td><p>Имя</p></td>
+                <td><p>Фамилия</p></td>
+                <td><p>Должность</p></td>
+                <td></td>
+            </tr>
+            @foreach (var contact in Model)
+            {
+                <tr>
+                    <td><p>@contact.FirstName</p></td>                    
+                    <td><p>@contact.LastName</p></td>
+                    <td>
+                        <p>
+                            @contact.Position @Html.ActionLink("Редактировать","Update", routeValues: new { id = contact.Id })
+                            @Html.ActionLink("Удалить","Delete",routeValues: new { id = contact.Id })
+                        </p>
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+    @Html.ActionLink("Добавить", "Add", "Contact")
+</body>
+</html>
